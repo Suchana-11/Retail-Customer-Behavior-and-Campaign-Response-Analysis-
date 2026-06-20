@@ -1,8 +1,7 @@
-# Retail-Customer-Behavior-and-Customer-Response-Analysis
 # Customer Segmentation & Business Performance Analysis
 
 ## Overview
-This project analyzes customer purchasing behavior to identify customer segments and generate business insights using Excel, SQL, Python, and Tableau.
+This project focuses on customer purchasing patterns, segmentation, KPI tracking, business performance monitoring to support data-driven decision-making and identify customer segments and generate business insights.
 
 ## Tools Used
 - Excel
